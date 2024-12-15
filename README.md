@@ -1,8 +1,13 @@
 # **Maintaining Your Delta Lake**
 
 👨‍💻 Người thực hiện  
+<<<<<<< HEAD
 Huỳnh Hoàng Phúc – Mã sinh viên: 21036541, Lớp: DHKTPM17A  
 Phạm Đăng Khôi – Mã sinh viên: 21042951, Lớp: DHKTPM17B
+=======
+Huỳnh Hoàng Phúc – 21036541 - DHKTPM17A  
+Phạm Đăng Khôi   – 21042951 - DHKTPM17B
+>>>>>>> ce9d21f0b06ef749eca148e05256099fd092277d
 
 ## **Giới thiệu**
 
