@@ -1,8 +1,7 @@
 # **Maintaining Your Delta Lake**
 
 👨‍💻 Người thực hiện  
-Huỳnh Hoàng Phúc – Mã sinh viên: 21036541, Lớp: DHKTPM17A
-
+Huỳnh Hoàng Phúc – Mã sinh viên: 21036541, Lớp: DHKTPM17A  
 Phạm Đăng Khôi – Mã sinh viên: 21042951, Lớp: DHKTPM17B
 
 ## **Giới thiệu**
@@ -26,4 +25,3 @@ Dự án này tập trung vào việc duy trì và tối ưu hóa hệ thống l
 6. **Tích hợp Delta Lake với các công cụ khác**
 7. **Delta Lake với Machine Learning**
 8. **Kết luận**
-
