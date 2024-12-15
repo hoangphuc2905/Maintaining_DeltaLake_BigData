@@ -1,0 +1,11 @@
+services:
+  deltalake:
+    image: deltaio/delta-docker:latest
+    platform: linux/amd64
+    hostname: deltalake-quickstart
+    container_name: deltalake-quickstart
+    volumes:
+      - D:/HK1_Nam4/BigData_BTL/delta-lake-definitive-guide/ch05:/opt/spark/work-dir/ch6
+    ports:
+      - 8888-8889:8888-8889
+    restart: always
